@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Activity2</string>
+    <string name="nama">Maula Ghani Al Aufa</string>
+    <string name="NIM">20210140096</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Match Parent</string>
+    <string name="Left" > Left</string>
+    <string name="Right">Right</string>
+    <string name="Namadia">Pilih Nama Untuk Dia </string>
+
 </resources>
